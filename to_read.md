@@ -5,7 +5,9 @@ WIGI
 * The Wikipedia Gender Gap Revisited: Characterizing Survey Response Bias with
   Propensity Score Estimation:
 http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0065782
-* Gender asymmetries in reality and fiction: The Bechdel test of social media https://www.sg.ethz.ch/media/talk_slides/ICWSM14_1.pdf
+* Gender asymmetries in reality and fiction: The Bechdel test of social media
+    * Paper: http://www.aaai.org/ocs/index.php/ICWSM/ICWSM14/paper/download/8070/8113
+    * Talk Presentation: https://www.sg.ethz.ch/media/talk_slides/ICWSM14_1.pdf
 
 General Interest
 ================
